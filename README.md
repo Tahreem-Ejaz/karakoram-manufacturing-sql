@@ -66,7 +66,7 @@ manufacturing company — built using IAS standards.
 - Ratio flags (Healthy/Monitor/Risk)
 
 ### Advanced
-- Corporate Dashboard VIEW (CTE)
+- Corporate Dashboard VIEW 
 - Asset Health Summary VIEW
 
 ## Tools
