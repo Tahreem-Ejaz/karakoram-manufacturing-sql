@@ -78,3 +78,15 @@ manufacturing company — built using IAS standards.
 
 CA (CAF Level) + BS Data Science Student  
 Focus: Financial Reporting | Data Analytics | IAS
+
+## Topics
+postgresql
+sql
+ias-16
+ias-36
+ias-7
+financial-analysis
+accounting
+data-analytics
+pakistan
+ca-student
